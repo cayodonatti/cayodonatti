@@ -5,6 +5,7 @@
   </a>
 </p>
 
-- I'm mostly experienced with Node, React-Native and MySQL
-- I also have experience with MongoDB, .NET, Ruby on Rails, React and Javascript things in general
-- I’m currently working at Upstart!
+- I'm mostly experienced with React, NextJs, React-Native and NodeJs.
+- I also have experience with MongoDB, Ruby on Rails and MySQL.
+- I've worked with Javascript/Typescript, Ruby and SQL as main languages.
+- Currently working at Upstart!
